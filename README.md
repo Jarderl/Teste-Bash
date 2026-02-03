@@ -14,6 +14,6 @@
 
 ---
 
-git remote add origin https://github.com/Jarderl/Git-Comandos.git
-git branch -M main                   # ensure branch is named 'main'
-git push -u origin main              # push everything to GitHub
+- git remote add origin https://github.com/------
+- git branch -M main                   # ensure branch is named 'main'
+- git push -u origin main              # push everything to GitHub
